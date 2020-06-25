@@ -1,18 +1,17 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/720040111798091840/722816206733705295/Logo.png" width="300px" alt="logo">
   <p>Veja como anda o coronavírus no brasil e no mundo.</p>
+  <p>
+    <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#customs-licença">Licença</a>
+  </p>
   <a href="https://github.com/zevdvlpr/coronApp/tree/master/LICENSE">
     <img src="https://img.shields.io/github/license/zevdvlpr/coronApp?color=red&style=for-the-badge" alt="License">
   </a>
 </div>
-
-<p align="center">
-  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#recycle-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-creditos">Creditos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
 
 ## :page_with_curl: Sobre
 
