@@ -9,7 +9,7 @@
     <a href="#customs-license">Licença</a>
   </p>
   <a href="https://github.com/zevdvlpr/coronApp/tree/master/LICENSE">
-    <img src="https://img.shields.io/github/license/zevdvlpr/coronApp?color=red&style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/github/license/zevdvlpr/coronApp?color=%23000000&label=Licence&style=flat-square" alt="License">
   </a>
 </div>
 
