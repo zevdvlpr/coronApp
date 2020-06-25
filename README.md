@@ -6,6 +6,12 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="#-page-with-curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
 ## :page_with_curl: Sobre
 
 Projeto criado com o intuito de acompanhar as estatisticas do Coronavírus (COVID-19) nos estados brasileiros e no mundo.
